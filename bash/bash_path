@@ -1,1 +1,1 @@
-export PATH=$PATH:~/bin:~/bin/scripts
+export PATH=$PATH:~/bin:~/bin/scripts:$HOME/.rvm/bin

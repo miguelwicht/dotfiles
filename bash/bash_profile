@@ -1,0 +1,14 @@
+# PATH definitions
+if [ -f ~/.bash_path ]; then
+    . ~/.bash_path
+fi
+
+# ENV definitions
+if [ -f ~/.bash_env ]; then
+    . ~/.bash_env
+fi
+
+# Alias definitions
+if [ -f ~/.bash_aliases ]; then
+    . ~/.bash_aliases
+fi
